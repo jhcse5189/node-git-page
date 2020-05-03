@@ -1,5 +1,4 @@
 {
-  "homepage": "https://jhcse5189.github.io/node-git-page/",
   "scripts": {
     "build": "webpack",
     "predeploy": "npm run build",
